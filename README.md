@@ -1,2 +1,4 @@
 # hello-world
-Just another respoitory
+
+Name: Kristen Mancini
+Date: 6/3/16
